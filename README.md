@@ -37,6 +37,7 @@ Chintu was an organiser of an event and wanted to broadcast a message to the reg
 - [Zainuddeen Abdul Muiz](https://github.com/Zain-Muiz)
 - <a href='https://github.com/vishal-codes'>Vishal Shinde</a>
 - <a href='https://github.com/arsheelsheikh'>Arsheel Sheikh</a>
-- <a href='https://github.com/SaNsK11'>Sanskar Goyal</a>
 - [Harsh Rastogi](https://github.com/theharshrastogi)
 - [Euhid Aman](https://github.com/euhidaman)
+- <a href='https://github.com/SaNsK11'>Sanskar Goyal</a>
+- <a href='https://github.com/Manya1609'>Manya Sachdeva</a>
